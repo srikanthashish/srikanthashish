@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @srikanthashish
+- 👋 Hi there. I’m Ashish.
+- ⚡️ I love reading books and listening to classic rock.
 - 📫 How to reach me: https://www.ashishsrikanth.com/contact
 
 <!---
