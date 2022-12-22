@@ -1,6 +1,6 @@
 - 👋🏽 Hi there. I’m Ashish.
 - ⚡️ I love reading books and listening to classic rock.
-- 📫 How to reach me: https://www.ashishsrikanth.com/contact
+- Web: https://www.ashishsrikanth.com
 
 <!---
 srikanthashish/srikanthashish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
