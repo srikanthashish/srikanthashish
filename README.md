@@ -1,5 +1,5 @@
 ## 🛠️ (Selected) Hard Skills
-[![PYTHON](https://img.shields.io/badge/PYTHON-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language){:target="_blank"}.)
+[![PYTHON](https://img.shields.io/badge/PYTHON-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![MATLAB](https://img.shields.io/badge/MATLAB-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/MATLAB)
 [![R](https://img.shields.io/badge/R-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/R_(programming_language))
 [![SQL](https://img.shields.io/badge/SQL-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
