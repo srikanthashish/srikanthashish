@@ -26,8 +26,8 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![DOCKER](https://img.shields.io/badge/Docker-rgb(37,37,37)?style=for-the-badge&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 [![ARDUINO](https://img.shields.io/badge/Arduino-rgb(14,42,71)?style=for-the-badge&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
 [![RASPBERRY PI](https://img.shields.io/badge/Raspberry_Pi-rgb(14,42,71)?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://en.wikipedia.org/wiki/Raspberry_Pi)
-[![OPTITRACK](https://img.shields.io/badge/OptiTrack-rgb(14,42,71)?style=for-the-badge)](https://optitrack.com/)
-[![PLATO VISUAL OCCLUSION SPECTACLES](https://img.shields.io/badge/PLATO_Visual_Occlusion_Spectacles-rgb(14,42,71)?style=for-the-badge)](http://www.translucent.ca/products/plato-visual-occlusion-spectacles/)
+[![OPTITRACK](https://img.shields.io/badge/OptiTrack-rgb(71,44,122)?style=for-the-badge)](https://optitrack.com/)
+[![PLATO VISUAL OCCLUSION SPECTACLES](https://img.shields.io/badge/PLATO_Visual_Occlusion_Spectacles-rgb(71,44,122)?style=for-the-badge)](http://www.translucent.ca/products/plato-visual-occlusion-spectacles/)
 [![MACOS](https://img.shields.io/badge/MacOS-rgb(37,37,37)?style=for-the-badge&logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![WINDOWS](https://img.shields.io/badge/Windows-rgb(37,37,37)?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![IOS](https://img.shields.io/badge/iOS-rgb(37,37,37)?style=for-the-badge&logo=ios&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
@@ -35,6 +35,10 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![GIMP](https://img.shields.io/badge/GNU_Image_Manipulation_Program_(GIMP)-rgb(37,37,37)?style=for-the-badge&logo=gimp&logoColor=white)](https://en.wikipedia.org/wiki/GIMP)
 [![FIGMA](https://img.shields.io/badge/Figma-rgb(37,37,37)?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/Figma_(software))
 [![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/Adobe_Creative_Cloud-rgb(37,37,37)?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Creative_Cloud)
+
+### 🍎 Education
+[![GOOGLE CLASSROOM](https://img.shields.io/badge/Google_Classroom-rgb(37,37,37)?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://en.wikipedia.org/wiki/Google_Classroom)
+[![LEGO® EDUCATION SPIKE™ PRIME](https://img.shields.io/badge/LEGO®_Education_SPIKE™_Prime-rgb(71,44,122)?style=for-the-badge)](https://en.wikipedia.org/wiki/Lego_Education#Spike_Prime)
 
 ## ⚙️ Software Libraries
 ### (Selected) Python Libraries
