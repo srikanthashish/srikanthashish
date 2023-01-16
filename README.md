@@ -3,6 +3,13 @@
 
 Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
 
+## 🔗 Links
+[![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
+[![GITHUB](https://img.shields.io/badge/GITHUB-rgba(68,1,84,1)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
+[![TWITTER](https://img.shields.io/badge/TWITTER-rgba(68,1,84,1)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
+[![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgba(68,1,84,1)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-rgba(68,1,84,1)?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/srikanthashish)
+
 ## 🛠️ Hard Skills
 [![PYTHON](https://img.shields.io/badge/Python-rgb(37,37,37)?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![MATLAB](https://img.shields.io/badge/MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/MATLAB)
@@ -47,10 +54,3 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
 [![FIELDTRIP](https://img.shields.io/badge/FieldTrip-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FieldTrip)
 [![PSYCHTOOLBOX–3](https://img.shields.io/badge/Psychtoolbox_for_MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB)
-
-## 🔗 Links
-[![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
-[![GITHUB](https://img.shields.io/badge/GITHUB-rgba(68,1,84,1)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
-[![TWITTER](https://img.shields.io/badge/TWITTER-rgba(68,1,84,1)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
-[![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgba(68,1,84,1)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-rgba(68,1,84,1)?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/srikanthashish)
