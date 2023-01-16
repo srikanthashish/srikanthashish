@@ -1,10 +1,10 @@
 ## 🛠️ (Selected) Hard Skills
-[![PYTHON](https://img.shields.io/badge/PYTHON-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://www.python.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![R](https://img.shields.io/badge/R-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://www.r-project.org/)
-[![MYSQL](https://img.shields.io/badge/MYSQL-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://www.mysql.com/)
-[![SAS](https://img.shields.io/badge/SAS-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://www.sas.com/en_ca/home.html)
-[![JULIA](https://img.shields.io/badge/JULIA-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://julialang.org/)
+[![PYTHON](https://img.shields.io/badge/PYTHON-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![MATLAB](https://img.shields.io/badge/MATLAB-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/MATLAB)
+[![R](https://img.shields.io/badge/R-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/R_(programming_language))
+[![SQL](https://img.shields.io/badge/SQL-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![SAS](https://img.shields.io/badge/SAS-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/SAS_language)
+[![JULIA](https://img.shields.io/badge/JULIA-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Julia_(programming_language))
 
 ## 🔗 Links
 [![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
