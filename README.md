@@ -1,3 +1,8 @@
+## 🛠️ About
+⚙️ Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
+
+Currently, I am an undergraduate student in my final year at York University (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
+
 ## 🛠️ (Selected) Hard Skills
 [![PYTHON](https://img.shields.io/badge/PYTHON-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![MATLAB](https://img.shields.io/badge/MATLAB-rgba(7,22,24,1)?style=for-the-badge&logo=&logoColor=white)](https://en.wikipedia.org/wiki/MATLAB)
