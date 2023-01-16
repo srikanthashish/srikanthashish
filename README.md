@@ -5,12 +5,13 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 
 ## 🔗 Links
 [![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
+### Socials
 [![GITHUB](https://img.shields.io/badge/GITHUB-rgba(68,1,84,1)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
 [![TWITTER](https://img.shields.io/badge/TWITTER-rgba(68,1,84,1)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
 [![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgba(68,1,84,1)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-rgba(68,1,84,1)?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/srikanthashish)
 
-## 🛠️ Hard Skills
+## 🛠️ Hard skills
 [![PYTHON](https://img.shields.io/badge/Python-rgb(37,37,37)?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![MATLAB](https://img.shields.io/badge/MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/MATLAB)
 [![R](https://img.shields.io/badge/R-rgb(37,37,37)?style=for-the-badge&logo=r&logoColor=white)](https://en.wikipedia.org/wiki/R_(programming_language))
@@ -36,12 +37,12 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![FIGMA](https://img.shields.io/badge/Figma-rgb(37,37,37)?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/Figma_(software))
 [![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/Adobe_Creative_Cloud-rgb(37,37,37)?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Creative_Cloud)
 
-### 🍎 Education
+### 🍎 Education-focused
 [![GOOGLE CLASSROOM](https://img.shields.io/badge/Google_Classroom-rgb(37,37,37)?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://en.wikipedia.org/wiki/Google_Classroom)
 [![LEGO® EDUCATION SPIKE™ PRIME](https://img.shields.io/badge/LEGO®_Education_SPIKE™_Prime-rgb(71,44,122)?style=for-the-badge)](https://en.wikipedia.org/wiki/Lego_Education#Spike_Prime)
 
-## ⚙️ Software Libraries
-### (Selected) Python Libraries
+## ⚙️ Software libraries
+### (Selected) Python libraries
 [![TENSOR FLOW](https://img.shields.io/badge/Tensor_Flow-rgb(37,37,37)?style=for-the-badge&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/TensorFlow)
 [![NUMPY](https://img.shields.io/badge/NumPy-rgb(37,37,37)?style=for-the-badge&logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
 [![SCIPY](https://img.shields.io/badge/SciPy-rgb(37,37,37)?style=for-the-badge&logo=scipy&logoColor=white)](https://en.wikipedia.org/wiki/SciPy)
@@ -55,7 +56,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![PLOTLY](https://img.shields.io/badge/Plotly-rgb(37,37,37)?style=for-the-badge&logo=plotly&logoColor=white)](https://en.wikipedia.org/wiki/Plotly)
 [![MNE–PYTHON](https://img.shields.io/badge/MNE–Python-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/MNE-Python)
 
-### (Selected) MATLAB Libraries
+### (Selected) MATLAB libraries
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
 [![FIELDTRIP](https://img.shields.io/badge/FieldTrip-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FieldTrip)
 [![PSYCHTOOLBOX–3](https://img.shields.io/badge/Psychtoolbox_for_MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB)
