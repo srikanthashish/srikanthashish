@@ -1,5 +1,5 @@
-## 🛠️ About
-⚙️ Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
+## 👋🏽 About
+Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
 
 Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
 
@@ -36,7 +36,8 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![FIGMA](https://img.shields.io/badge/Figma-rgb(37,37,37)?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/Figma_(software))
 [![ADOBE CREATIVE CLOUD](https://img.shields.io/badge/Adobe_Creative_Cloud-rgb(37,37,37)?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Creative_Cloud)
 
-## 🛠️ (Selected) Python Libraries
+## ⚙️ Software Libraries
+### (Selected) Python Libraries
 [![TENSOR FLOW](https://img.shields.io/badge/Tensor_Flow-rgb(37,37,37)?style=for-the-badge&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/TensorFlow)
 [![NUMPY](https://img.shields.io/badge/NumPy-rgb(37,37,37)?style=for-the-badge&logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
 [![SCIPY](https://img.shields.io/badge/SciPy-rgb(37,37,37)?style=for-the-badge&logo=scipy&logoColor=white)](https://en.wikipedia.org/wiki/SciPy)
@@ -50,7 +51,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![PLOTLY](https://img.shields.io/badge/Plotly-rgb(37,37,37)?style=for-the-badge&logo=plotly&logoColor=white)](https://en.wikipedia.org/wiki/Plotly)
 [![MNE–PYTHON](https://img.shields.io/badge/MNE–Python-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/MNE-Python)
 
-## 🛠️ (Selected) MATLAB Libraries
+### (Selected) MATLAB Libraries
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
 [![FIELDTRIP](https://img.shields.io/badge/FieldTrip-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FieldTrip)
 [![PSYCHTOOLBOX–3](https://img.shields.io/badge/Psychtoolbox_for_MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB)
