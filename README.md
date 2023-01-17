@@ -1,11 +1,11 @@
-## 👋🏽 About me
+## 👋 About me
 Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
 
 Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
 
 ## 🔗 Links
 [![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
-### Socials
+### 🤝 Socials
 [![GITHUB](https://img.shields.io/badge/GITHUB-rgba(68,1,84,1)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
 [![TWITTER](https://img.shields.io/badge/TWITTER-rgba(68,1,84,1)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
 [![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgba(68,1,84,1)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
@@ -23,7 +23,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![MARKDOWN](https://img.shields.io/badge/Markdown-rgb(37,37,37)?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![JULIA](https://img.shields.io/badge/Julia-rgb(37,37,37)?style=for-the-badge&logo=julia&logoColor=white)](https://en.wikipedia.org/wiki/Julia_(programming_language))
 [![JUPYTER](https://img.shields.io/badge/Jupyter-rgb(37,37,37)?style=for-the-badge&logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Project_Jupyter)
-[![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-rgb(37,37,37)?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+[![VISUAL STUDIO (VS) CODE](https://img.shields.io/badge/Visual_Studio_(VS)_Code-rgb(37,37,37)?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 [![DOCKER](https://img.shields.io/badge/Docker-rgb(37,37,37)?style=for-the-badge&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 [![ARDUINO](https://img.shields.io/badge/Arduino-rgb(14,42,71)?style=for-the-badge&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
 [![RASPBERRY PI](https://img.shields.io/badge/Raspberry_Pi-rgb(14,42,71)?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://en.wikipedia.org/wiki/Raspberry_Pi)
