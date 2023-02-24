@@ -50,11 +50,13 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![PANDAS](https://img.shields.io/badge/Pandas-rgb(37,37,37)?style=for-the-badge&logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
 [![MATPLOTLIB](https://img.shields.io/badge/Matplotlib-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Matplotlib)
 [![KERAS](https://img.shields.io/badge/Keras-rgb(37,37,37)?style=for-the-badge&logo=keras&logoColor=white)](https://en.wikipedia.org/wiki/Keras)
-[![SCIKIT-LEARN](https://img.shields.io/badge/scikit–learn-rgb(37,37,37)?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://en.wikipedia.org/wiki/Scikit-learn)
-[![PYTORCH](https://img.shields.io/badge/PyTorch-rgb(37,37,37)?style=for-the-badge&logo=pytorch&logoColor=white)](https://en.wikipedia.org/wiki/PyTorch)
-[![SCRAPY](https://img.shields.io/badge/Scrapy-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Scrapy)
-[![PLOTLY](https://img.shields.io/badge/Plotly-rgb(37,37,37)?style=for-the-badge&logo=plotly&logoColor=white)](https://en.wikipedia.org/wiki/Plotly)
-[![MNE–PYTHON](https://img.shields.io/badge/MNE–Python-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/MNE-Python)
+[![SCIKIT-LEARN](https://img.shields.io/badge/scikit–learn-rgb(37,37,37)?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://pypi.org/project/scikit-learn/)
+[![PYTORCH](https://img.shields.io/badge/PyTorch-rgb(37,37,37)?style=for-the-badge&logo=pytorch&logoColor=white)](https://pypi.org/project/torch/)
+[![SCRAPY](https://img.shields.io/badge/Scrapy-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/Scrapy/)
+[![PLOTLY](https://img.shields.io/badge/Plotly-rgb(37,37,37)?style=for-the-badge&logo=plotly&logoColor=white)](https://pypi.org/project/plotly/)
+[![MNE–PYTHON](https://img.shields.io/badge/MNE–Python-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/mne/)
+[![SEABORN](https://img.shields.io/badge/Seaborn-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/seaborn/)
+[![FOLIUM](https://img.shields.io/badge/Seaborn-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/folium/)
 
 ### (Selected) MATLAB libraries
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
