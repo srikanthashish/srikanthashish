@@ -56,7 +56,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![PLOTLY](https://img.shields.io/badge/Plotly-rgb(37,37,37)?style=for-the-badge&logo=plotly&logoColor=white)](https://pypi.org/project/plotly/)
 [![MNE–PYTHON](https://img.shields.io/badge/MNE–Python-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/mne/)
 [![SEABORN](https://img.shields.io/badge/Seaborn-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/seaborn/)
-[![FOLIUM](https://img.shields.io/badge/Seaborn-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/folium/)
+[![FOLIUM](https://img.shields.io/badge/Folium-rgb(37,37,37)?style=for-the-badge)](https://pypi.org/project/folium/)
 
 ### (Selected) MATLAB libraries
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
