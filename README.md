@@ -17,6 +17,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![R](https://img.shields.io/badge/R-rgb(37,37,37)?style=for-the-badge&logo=r&logoColor=white)](https://en.wikipedia.org/wiki/R_(programming_language))
 [![FSL](https://img.shields.io/badge/FMRIB_Software_Library_(FSL)-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FMRIB_Software_Library)
 [![MYSQL](https://img.shields.io/badge/MySQL-rgb(37,37,37)?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+[![Microsoft Power BI](https://img.shields.io/badge/Microsoft_Power_BI-rgb(37,37,37)?style=for-the-badge&logo=powerbi&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Power_BI)
 [![JSON](https://img.shields.io/badge/JSON-rgb(37,37,37)?style=for-the-badge&logo=json&logoColor=white)](https://en.wikipedia.org/wiki/JSON)
 [![HTML5](https://img.shields.io/badge/HTML5-rgb(37,37,37)?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-rgb(37,37,37)?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS3)
