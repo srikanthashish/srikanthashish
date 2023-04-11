@@ -1,3 +1,5 @@
+![header04](https://user-images.githubusercontent.com/29677962/231224470-10d64a91-cdd9-4a21-9411-3b93c0663e5e.png)
+
 ## 👋 About me
 Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
 
@@ -64,3 +66,5 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![EEGLAB](https://img.shields.io/badge/EEGLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/EEGLAB)
 [![FIELDTRIP](https://img.shields.io/badge/FieldTrip-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FieldTrip)
 [![PSYCHTOOLBOX–3](https://img.shields.io/badge/Psychtoolbox_for_MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB)
+
+![footer](https://user-images.githubusercontent.com/29677962/231224530-35fef235-8669-4642-8585-8a1993c857c9.png)
