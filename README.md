@@ -4,12 +4,12 @@ Functional models of the visual cortex describe the feedforward method as a seri
 Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
 
 ## 🔗 Links
-[![CV](https://img.shields.io/badge/CV-rgba(68,1,84,1)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
+[![CV](https://img.shields.io/badge/CV-rgb(70,43,120)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
 ### 🤝 Socials
-[![GITHUB](https://img.shields.io/badge/GITHUB-rgba(68,1,84,1)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
-[![TWITTER](https://img.shields.io/badge/TWITTER-rgba(68,1,84,1)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
-[![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgba(68,1,84,1)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-rgba(68,1,84,1)?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/srikanthashish)
+[![GITHUB](https://img.shields.io/badge/GITHUB-rgb(70,43,120)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
+[![TWITTER](https://img.shields.io/badge/TWITTER-rgb(70,43,120)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
+[![GOOGLE SCHOLAR](https://img.shields.io/badge/GOOGLE%20SCHOLAR-rgb(70,43,120)?style=for-the-badge&logo=GOOGLESCHOLAR&logoColor=white)](https://scholar.google.ca/citations?user=qkk5fAEAAAAJ&hl=en&oi=ao)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-rgb(70,43,120)?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/srikanthashish)
 
 ## 🛠️ Hard skills
 [![PYTHON](https://img.shields.io/badge/Python-rgb(37,37,37)?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -28,9 +28,9 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![DOCKER](https://img.shields.io/badge/Docker-rgb(37,37,37)?style=for-the-badge&logo=docker&logoColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
 [![ARDUINO](https://img.shields.io/badge/Arduino-rgb(14,42,71)?style=for-the-badge&logo=arduino&logoColor=white)](https://en.wikipedia.org/wiki/Arduino)
 [![RASPBERRY PI](https://img.shields.io/badge/Raspberry_Pi-rgb(14,42,71)?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://en.wikipedia.org/wiki/Raspberry_Pi)
-[![OPTITRACK](https://img.shields.io/badge/OptiTrack-rgb(71,44,122)?style=for-the-badge)](https://optitrack.com/)
+[![OPTITRACK](https://img.shields.io/badge/OptiTrack-rgb(70,43,120)?style=for-the-badge)](https://optitrack.com/)
 [![PLATO VISUAL OCCLUSION SPECTACLES](https://img.shields.io/badge/PLATO_Visual_Occlusion_Spectacles-rgb(71,44,122)?style=for-the-badge)](http://www.translucent.ca/products/plato-visual-occlusion-spectacles/)
-[![KERNEL FLOW](https://img.shields.io/badge/Kernel_Flow-rgb(71,44,122)?style=for-the-badge)](https://www.kernel.com/)
+[![KERNEL FLOW](https://img.shields.io/badge/Kernel_Flow-rgb(70,43,120)?style=for-the-badge)](https://www.kernel.com/)
 [![MACOS](https://img.shields.io/badge/MacOS-rgb(37,37,37)?style=for-the-badge&logo=macos&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![WINDOWS](https://img.shields.io/badge/Windows-rgb(37,37,37)?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![IOS](https://img.shields.io/badge/iOS-rgb(37,37,37)?style=for-the-badge&logo=ios&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
@@ -41,7 +41,7 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 
 ### 🍎 Education-focused
 [![GOOGLE CLASSROOM](https://img.shields.io/badge/Google_Classroom-rgb(37,37,37)?style=for-the-badge&logo=googleclassroom&logoColor=white)](https://en.wikipedia.org/wiki/Google_Classroom)
-[![LEGO® EDUCATION SPIKE™ PRIME](https://img.shields.io/badge/LEGO®_Education_SPIKE™_Prime-rgb(71,44,122)?style=for-the-badge)](https://en.wikipedia.org/wiki/Lego_Education#Spike_Prime)
+[![LEGO® EDUCATION SPIKE™ PRIME](https://img.shields.io/badge/LEGO®_Education_SPIKE™_Prime-rgb(70,43,120)?style=for-the-badge)](https://en.wikipedia.org/wiki/Lego_Education#Spike_Prime)
 
 ## ⚙️ Software libraries
 ### (Selected) Python libraries
