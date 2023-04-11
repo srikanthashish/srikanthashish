@@ -67,4 +67,4 @@ Currently, I am an undergraduate student in my final year at <a href="https://ww
 [![FIELDTRIP](https://img.shields.io/badge/FieldTrip-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/FieldTrip)
 [![PSYCHTOOLBOX–3](https://img.shields.io/badge/Psychtoolbox_for_MATLAB-rgb(37,37,37)?style=for-the-badge)](https://en.wikipedia.org/wiki/Psychtoolbox_for_MATLAB)
 
-![footer](https://user-images.githubusercontent.com/29677962/231224530-35fef235-8669-4642-8585-8a1993c857c9.png)
+![footer02](https://user-images.githubusercontent.com/29677962/231235721-aef06e96-b033-4479-96e2-3513389af5e1.png)
