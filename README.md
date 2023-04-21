@@ -6,7 +6,7 @@ Functional models of the visual cortex describe the feedforward method as a seri
 Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
 
 ## 🔗 Links
-[![CV](https://img.shields.io/badge/CV-rgb(70,43,120)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1eTsMymAMtL32sl0dlsmufONbOKIm2mxW/view?usp=share_link)
+[![CV](https://img.shields.io/badge/CV-rgb(70,43,120)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1uBXkU9WnJL6U2J_5KU8v60SQA-zNGwpq/view?usp=share_link)
 ### 🤝 Socials
 [![GITHUB](https://img.shields.io/badge/GITHUB-rgb(70,43,120)?style=for-the-badge&logo=GITHUB)](https://github.com/srikanthashish)
 [![TWITTER](https://img.shields.io/badge/TWITTER-rgb(70,43,120)?style=for-the-badge&logo=TWITTER&logoColor=white)](https://www.twitter.com/srikanthashish)
