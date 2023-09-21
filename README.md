@@ -1,9 +1,13 @@
 ![header04](https://user-images.githubusercontent.com/29677962/231224470-10d64a91-cdd9-4a21-9411-3b93c0663e5e.png)
 
 ## 👋 About me
-Functional models of the visual cortex describe the feedforward method as a series of processing stages. How does the cortex perform the computationally challenging problems of vision? Do perception and action stem from separate brain circuits?
+Ashish is a purpose-driven and technology-savvy recent graduate from <a href="https://www.yorku.ca/">York University</a> (Toronto, ON) with a Specialized Honors Bachelor's degree in Cognitive Science. 
 
-Currently, I am an undergraduate student in my final year at <a href="https://www.yorku.ca/">York University</a> (Toronto, ON), where I am working to delve deeper into these questions. My professional and academic interests currently lie in telling stories with data, exploring vision processing in humans and machines, and advancing success in the education space.
+His academic pursuits have led him to explore the complex question of how the visual cortex performs computationally challenging problems of vision and whether perception and action stem from separate brain circuits, utilizing functional models to describe the feedforward method as a series of processing stages. 
+
+Ashish's professional and academic interests lie in telling stories with data, exploring whole brain function, and advancing success in the education space.
+
+In his free time, Ashish enjoys connecting with new individuals and discussing professional experiences, sharing reading lists, and diving into thought-provoking inquiries, such as dissecting the enigmatic thought processes of the Sorting Hat at Hogwarts School of Witchcraft and Wizardry! ⚡️🦉
 
 ## 🔗 Links
 [![CV](https://img.shields.io/badge/CV-rgb(70,43,120)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1uBXkU9WnJL6U2J_5KU8v60SQA-zNGwpq/view?usp=share_link)
