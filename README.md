@@ -1,7 +1,7 @@
 ![header04](https://user-images.githubusercontent.com/29677962/231224470-10d64a91-cdd9-4a21-9411-3b93c0663e5e.png)
 
 ## 👋 About me
-Ashish is a purpose-driven and technology-savvy recent graduate from <a href="https://www.yorku.ca/">York University</a> (Toronto, ON) with a Specialized Honors Bachelor's degree in Cognitive Science. 
+Ashish is a recent graduate from <a href="https://www.yorku.ca/">York University</a> with a Specialized Honours BA in Cognitive Science and is currently pursuing a Master’s in Management Analytics at Queen’s University’s Smith School of Business.
 
 His academic pursuits have led him to explore the complex question of how the visual cortex performs computationally challenging problems of vision and whether perception and action stem from separate brain circuits, utilizing functional models to describe the feedforward method as a series of processing stages. 
 
