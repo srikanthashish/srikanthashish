@@ -1,13 +1,11 @@
 ![header04](https://user-images.githubusercontent.com/29677962/231224470-10d64a91-cdd9-4a21-9411-3b93c0663e5e.png)
 
 ## 👋 About me
-Ashish is a recent graduate from <a href="https://www.yorku.ca/">York University</a> with a Specialized Honours BA in Cognitive Science and is currently pursuing a Master’s in Management Analytics at Queen’s University’s Smith School of Business.
+Ashish is a purpose-driven data enthusiast with a passion for leveraging analytics to uncover insights and drive meaningful outcomes. As an Information Technology/Data Systems Analyst in the mental health sector, he applies his skills to track and analyze performance, improve care delivery, and support organizational strategy.
 
-His academic pursuits have led him to explore the complex question of how the visual cortex performs computationally challenging problems of vision and whether perception and action stem from separate brain circuits, utilizing functional models to describe the feedforward method as a series of processing stages. 
+Beyond his professional life, Ashish finds joy in running, where he combines his love for fitness and data by tracking his progress through detailed analytics. This personal passion mirrors his professional drive to use data as a tool for growth and success.
 
-Ashish's professional and academic interests lie in telling stories with data, exploring whole brain function, and advancing success in the education space.
-
-In his free time, Ashish enjoys connecting with new individuals and discussing professional experiences, sharing reading lists, and diving into thought-provoking inquiries, such as dissecting the enigmatic thought processes of the Sorting Hat at Hogwarts School of Witchcraft and Wizardry! ⚡️🦉
+Ashish’s interests lie in exploring how data can tell compelling stories, improve systems, and create impact, with a focus on healthcare and education sectors. He is committed to advancing innovation through the intersection of technology, strategy, and analytics.
 
 ## 🔗 Links
 [![CV](https://img.shields.io/badge/CV-rgb(70,43,120)?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1uBXkU9WnJL6U2J_5KU8v60SQA-zNGwpq/view?usp=share_link)
